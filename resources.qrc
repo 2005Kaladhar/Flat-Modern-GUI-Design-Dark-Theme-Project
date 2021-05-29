@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Utility Icons/home.png</file>
+    <file>Utility Icons/user-home.png</file>
+    <file>Utility Icons/settings.png</file>
+    <file>Utility Icons/users.png</file>
+    <file>Utility Icons/mail.png</file>
+    <file>Utility Icons/smartphone.svg</file>
+    <file>Utility Icons/drive-optical.svg</file>
+    <file>Utility Icons/lmms.svg</file>
+    <file>Utility Icons/yast-network-group.png</file>
+    <file>Utility Icons/preferences-desktop-user.svg</file>
+    <file>Utility Icons/globe.svg</file>
+    <file>v20swk.jpg</file>
+    <file>11027698.jpg</file>
+    <file>Utility Icons/menu unfocus.svg</file>
+    <file>Utility Icons/arrow-down-right.svg</file>
+    <file>Utility Icons/menu.svg</file>
+    <file>Utility Icons/radio-checked2.png</file>
+    <file>Utility Icons/menu-pressed.png</file>
+    <file>Utility Icons/shade_unfocused.png</file>
+    <file>Utility Icons/pane-handle2.png</file>
+    <file>Utility Icons/close_focused_pressed.png</file>
+    <file>Utility Icons/close.png</file>
+    <file>Utility Icons/maximize_focused_normal.png</file>
+    <file>Utility Icons/maximize_focused_prelight.png</file>
+    <file>Utility Icons/minimize_focused_normal.png</file>
+    <file>Utility Icons/minimize_unfocused_pressed.png</file>
+  </qresource>
+</RCC>
